@@ -23,7 +23,7 @@ let tags = {
 }
 const defaultMenu = {
     before: `
-> J I T O S S A - B O T
+> Y A S S I N E - B O T
 
 ┌  ➦ w9t lbot : *_%uptime !_*
 │  ➦ lyoum :  *_%week_*
@@ -140,10 +140,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'JITOSSA',
+title: 'YASSINE',
 body: "إضغط على الصورة للدخول للمجمعة",
-thumbnailUrl: 'https://telegra.ph/file/51a76af5ac51cc5bd73b2.jpg',
-sourceUrl: 'https://chat.whatsapp.com/L283DFlWlgVKWH40TOrUnP',
+thumbnailUrl: 'https://telegra.ph/file/ebd804cf1c43279ccaf04.jpg',
+sourceUrl: 'https://www.instagram.com/x_yassiii_1?igsh=bG4xZDVmaGp5am03',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
